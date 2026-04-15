@@ -1,0 +1,33 @@
+Data Schema
+
+Minimal session record:
+
+session_id
+time_start
+time_end
+
+V_pre
+V_post
+ΔV
+
+device_signature
+sensor_pattern
+environment_pattern
+
+status
+
+Example:
+
+session_id: S_2026_04_15_001
+time_start: 2026-04-15 21:03
+time_end: 2026-04-15 21:04
+
+V_pre: 0.41
+V_post: 0.28
+ΔV: -0.13
+
+device_signature: D84F2A91
+sensor_pattern: S29C11B4
+environment_pattern: E71A0K9
+
+status: completed
