@@ -1,0 +1,34 @@
+Pattern Recognition Layer
+
+The system does not identify the person.
+The system recognizes continuity of pattern.
+
+Core fields:
+
+device_signature
+sensor_pattern
+environment_pattern
+
+Definitions:
+
+device_signature = stable trace of the device and technical entry conditions
+sensor_pattern = signal behavior pattern observed during measurement
+environment_pattern = ambient pattern of the measurement environment
+
+Purpose:
+
+To detect repeated similarity without storing personal identity.
+
+The system may internally recognize:
+
+- same or similar device entry
+- same or similar signal behavior
+- same or similar environment conditions
+
+This does not mean:
+- identity
+- name
+- ownership
+
+It means:
+pattern continuity
