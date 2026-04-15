@@ -1,0 +1,21 @@
+Laboratory Structure
+
+LABORATORIJA = stalni okvir sistema
+
+Components:
+
+1. MODEL
+2. PROTOKOL
+3. APARAT
+4. METRIKA
+5. PREPOZNAVANJE OBRASCA
+6. ZAPIS
+
+Definitions:
+
+MODEL = formula i njena unutrašnja logika
+PROTOKOL = tok prolaza kroz sistem
+APARAT = kamera, mikrofon, uređaj, browser
+METRIKA = V_pre, V_post, ΔV
+PREPOZNAVANJE OBRASCA = device_signature, sensor_pattern, environment_pattern
+ZAPIS = trajni trag session-a
