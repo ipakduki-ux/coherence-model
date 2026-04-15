@@ -1,0 +1,8 @@
+Coherence-Driven State Transformation Model
+
+Author: Goran Duković
+Date: April 11, 2026
+Time: 03:15 AM (Balkan Time)
+
+SHA256:
+27E2E4D6A6EA942801DD3DE005C2FCE4E48C1CD90B20AEB4164699E5BEAFEB56
