@@ -1,0 +1,14 @@
+Dynamic Extension
+
+Ψ = Ψ(t)
+
+Ψ(t+1) = Yₙ(Λₙ(Cₙ(Ψ(t) + aψ*(t))))
+
+Interpretation:
+
+State is not fixed.
+It evolves through time.
+
+Model type:
+
+Discrete transformation flow

@@ -1,0 +1,16 @@
+Coherence-Driven State Transformation Model
+
+Ψ₀ → C(*) → Λₙ → Yₙ → ψ_f
+
+Ψ₀ = s(t) + n(t)
+ψ*
+Cₙ(*) = PΨ + aψ*
+Λₙ(Φ) = λₙΦ
+Yₙ = argmin V
+
+Author: Goran Duković
+Date: April 11, 2026
+Time: 03:15 AM (Balkan Time)
+
+Status: Base structure
+Claim: None

@@ -1,0 +1,24 @@
+Metric Definition
+
+V(t) = measure of system state at time t
+
+ΔV = V(post) - V(pre)
+
+Components:
+
+V₁ = voice variability
+V₂ = breathing rhythm
+V₃ = body micro-movement
+
+Composite:
+
+V(t) = V₁ + V₂ + V₃
+
+Goal:
+
+Detect measurable change in state.
+
+Note:
+
+Sensor-based input only.
+No subjective input.

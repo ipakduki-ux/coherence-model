@@ -1,0 +1,34 @@
+Process Log
+
+Step 1:
+Initial structure defined:
+
+Ψ₀ → C(*) → Λₙ → Yₙ → ψ_f
+
+Step 2:
+Defined base components:
+
+Ψ₀ = s(t) + n(t)
+
+Step 3:
+Expanded transformation:
+
+Cₙ(*) = PΨ + aψ*
+Λₙ(Φ) = λₙΦ
+Yₙ = argmin V
+
+Step 4:
+Introduced time evolution:
+
+Ψ(t+1) = Yₙ(Λₙ(Cₙ(Ψ(t) + aψ*(t))))
+
+Step 5:
+Defined measurement:
+
+V(t), ΔV
+
+Status:
+
+Active development
+No claims
+Observation only
