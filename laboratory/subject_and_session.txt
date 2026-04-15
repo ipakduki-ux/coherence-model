@@ -1,0 +1,22 @@
+Subject and Session
+
+SUBJEKT = onaj ko ulazi u proces
+
+The system does not require:
+- name
+- identity
+- reason for arrival
+- explanation of actions between sessions
+
+SESSION = one complete pass through the protocol
+
+SESSION includes:
+- entry
+- focus
+- measurement
+- processing
+- result
+- end
+
+If the same person returns later, that is not the same session.
+It is a new session.
