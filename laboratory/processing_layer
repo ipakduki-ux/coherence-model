@@ -1,0 +1,25 @@
+Processing Layer
+
+Measurement is not the end.
+Between measurement and result there is processing.
+
+Flow:
+
+MERENJE
+↓
+OBRADA
+↓
+REZULTAT
+
+OBRADA includes:
+
+1. extraction of raw signal features
+2. calculation of V_pre
+3. calculation of V_post
+4. calculation of ΔV
+5. generation of device_signature
+6. generation of sensor_pattern
+7. generation of environment_pattern
+8. writing to log
+
+The processing layer connects the apparatus and the formula.
