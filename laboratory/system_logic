@@ -1,0 +1,23 @@
+System Logic
+
+The laboratory runs continuously.
+
+A subject may enter or not enter.
+
+If the subject does not enter:
+- no session opens
+- no measurement occurs
+- no record is created
+
+If the subject enters:
+- a session opens
+- measurement occurs
+- processing occurs
+- a result is returned
+- a record is created
+- the session ends
+- the laboratory continues
+
+The laboratory does not push.
+The laboratory does not interpret on behalf of the subject.
+The laboratory records process and preserves trace.
